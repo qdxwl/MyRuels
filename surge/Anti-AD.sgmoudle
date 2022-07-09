@@ -1,0 +1,6 @@
+#!name=anti-ad
+#!desc=广告拦截
+
+[Rule]
+
+RULE-SET,https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt,REJECT
