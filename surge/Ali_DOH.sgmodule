@@ -1,6 +1,6 @@
-#!name=ali_doh
+#!name=private_doh
 #!desc=dns加密
 
 [General]
-dns-server =  223.5.5.5, 223.6.6.6
-doh-server = https://dns.alidns.com/dns-query
+dns-server =  119.29.29.29, 114.114.114.114
+doh-server = https://doh-bb8dbb3f.doh.pub/dns-query
