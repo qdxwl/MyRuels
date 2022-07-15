@@ -1,0 +1,5 @@
+#!name=RewriteUrl
+#!desc=重写url
+
+[URL Rewrite]
+^http://www\.google\.cn http://www.google.com header
