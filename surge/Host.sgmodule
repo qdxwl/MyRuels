@@ -1,6 +1,8 @@
 #!name=Host
 #!desc=特定域名查询所使用的dns
 
+[Host]
+
 ip6-localhost = ::1
 ip6-loopback = ::1
 taobao.com = server:https://dns.forhere.cn:22581/dns-query
